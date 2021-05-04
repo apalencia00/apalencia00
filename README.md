@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @apalencia00 - Andres Palencia F.
+HI! I'm Andres Palencia.
+
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning MongoDb
 - 💞️ I’m looking share my knowledge and my projects and collaborate with the community
 - 📫 How to reach me palencia89@gmail.com
 
-<!---
-apalencia00/apalencia00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
