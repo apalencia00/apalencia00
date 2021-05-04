@@ -5,6 +5,3 @@ HI! I'm Andres Palencia.
 - 💞️ I’m looking share my knowledge and my projects and collaborate with the community
 - 📫 How to reach me palencia89@gmail.com
 
-[![https://stackblitz.com/edit/js-objectos-f4wjaa?file=index.js](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
